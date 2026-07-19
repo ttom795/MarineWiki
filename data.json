@@ -1,0 +1,1711 @@
+{
+  "meta": {
+    "title": "The Ledger",
+    "subtitle": "One Piece 5e Campaign Wiki",
+    "description": "Character and location notes for the campaign."
+  },
+  "sessions": [
+    {
+      "ep": "Episode 1",
+      "summary": "Boat called Wishing Star built. Met the klabautermann and got advantage on all rolls performed on the boat."
+    },
+    {
+      "ep": "Episode 2",
+      "summary": "Started sailing. Captain blown up at the end."
+    },
+    {
+      "ep": "Episode 3",
+      "summary": "Fought a giant with ancient giant lineage, obliterated his ship. Our captain was revealed to be a literal devil. Sky island shot through by Chompe/Shura using a stored attack from a giant. Fleet Admiral Umiryu meets the crew, teleported to the Red Port by the Red Line."
+    },
+    {
+      "ep": "Episode 4",
+      "summary": "Questioned in front of the Fleet Admiral Umiryu. Pissed him off. Gulliver Glaurt flirts with Belladonna Xochi-Yiban and gets her number."
+    },
+    {
+      "ep": "Episode 5",
+      "summary": "Spider zoan Ornigol. Chaotic. Gulliver Glaurt became Seaman Apprentice."
+    },
+    {
+      "ep": "Episode 6",
+      "summary": "Off to rescue the king, kept hostage on an island. Planned the escape."
+    },
+    {
+      "ep": "Episode 7",
+      "summary": "Fighting in the Blue Hole."
+    },
+    {
+      "ep": "Episode 8",
+      "summary": "Not attended."
+    },
+    {
+      "ep": "Episode 9",
+      "summary": "In the fish still. Crew found Nueheimer Warlow's snail to talk to Shibvh while talking with the leader of the fish terrorists. Glaurt talks his way through it. Blocked the gun with Glaurt's seaking meat. Escaped and levelled up to 5. Orion used Vohkt as bait and lost him."
+    },
+    {
+      "ep": "Episode 10",
+      "summary": "Town burning/smouldering due to Ornigol. Shura talked too much to Callum (explosion kid) so Orion and Glaurt grabbed him. Orion and Glaurt hunting for town supplies."
+    },
+    {
+      "ep": "Episode 11/12",
+      "summary": "Made it to the island, Hangward Isles. Mission wasn't binned. Lots of dead/injured people. Found the medic character. Glaurt to sneak to the pirates and disguise with Ventorez and Hazard."
+    },
+    {
+      "ep": "Episode 13",
+      "summary": "Glaurt met Gol D. Roger while infiltrating. Found out about Deus leading the invasion. Glaurt joined Roger Pirates for a Davy Back fight. Won the Berry-Berry fruit and 100mil berry, gave 40mil to Roger. A prisoner, Cake-Man, escaped from jail after Orion gave him a cake. Shivbh oneshot the Captain (Cook)."
+    },
+    {
+      "ep": "Episode 14",
+      "summary": "Stopped a giant cannon. Light guy wanted to be a Warlord. Beetlejuice is missing. Shura apprehends Deus."
+    },
+    {
+      "ep": "Episode 15",
+      "summary": "Bumped into Gol D. Roger getting incroyapples."
+    },
+    {
+      "ep": "Episode 16",
+      "summary": "Went to court, Quintessa got Velda off. Going to Sabaody for patrolling on our ship."
+    },
+    {
+      "ep": "Episode 17",
+      "summary": "Stayed at Marineford. Met Mercury and was mildly interrogated. Went to the Red Desert."
+    },
+    {
+      "ep": "Episode 18",
+      "summary": "Quintessa built a car. Drove to a tree in the crater of the Red Desert. Bumped into a bunch of God's Knights. Glaurt ate the Mudskipper fruit. They spawned a fruit and Quintessa ate it."
+    },
+    {
+      "ep": "Episode 19",
+      "summary": "Fruit training."
+    },
+    {
+      "ep": "Episode 20",
+      "summary": "On our way to Sabaody. Got a call from a freak (Minobiko's ex-bf). Fleet Admiral promised Quintessa the spaceship Vohkt came in on if we solve Tack's mystery."
+    },
+    {
+      "ep": "Episode 21",
+      "summary": "Sailing to a training island. Have to pass through the Calm Belt and Ancremoore's territory."
+    }
+  ],
+  "devilFruits": {
+    "description": "Fruit names from the campaign notes.",
+    "paramecia": [
+      "Fuckup-Fuckup",
+      "Chop-Chop",
+      "Slip-Slip",
+      "Bomb-Bomb",
+      "Kilo-Kilo",
+      "Flower-Flower",
+      "Wax-Wax",
+      "Munch-Munch",
+      "Clone-Clone",
+      "String-String",
+      "Slow-Slow",
+      "Door-Door",
+      "Soap-Soap",
+      "Berry-Berry",
+      "Rust-Rust",
+      "Port-Port",
+      "Doze-Doze",
+      "Wheel-Wheel",
+      "Hollow-Hollow",
+      "Revive-Revive",
+      "Shadow-Shadow",
+      "Clear-Clear",
+      "Paw-Paw",
+      "Magnet-Magnet",
+      "Op-Op",
+      "Castle-Castle",
+      "Straw-Straw",
+      "Love-Love",
+      "Venom-Venom",
+      "Horm-Horm",
+      "Snip-Snip",
+      "Tremor-Tremor",
+      "Sparkle-Sparkle",
+      "Pocket-Pocket",
+      "Wash-Wash",
+      "Float-Float",
+      "Mark-Mark",
+      "Garb-Garb",
+      "Hobby-Hobby",
+      "Arms-Arms",
+      "Spin-Spin",
+      "Sticky-Sticky",
+      "Stomp-Stomp",
+      "Barrier-Barrier",
+      "Stitch-Stitch",
+      "Glare-Glare",
+      "Art-Art",
+      "Jacket-Jacket",
+      "Pop-Pop",
+      "Swim-Swim",
+      "Ton-Ton",
+      "Flag-Flag",
+      "Stone-Stone",
+      "Brush-Brush",
+      "Calm-Calm",
+      "Heal-Heal",
+      "Soul-Soul",
+      "Tone-Tone",
+      "Cage-Cage",
+      "Mirror-Mirror",
+      "Lick-Lick",
+      "Biscuit-Biscuit",
+      "Butter-Butter",
+      "Cream-Cream",
+      "Wring-Wring",
+      "Memo-Memo",
+      "Mochi-Mochi",
+      "Puff-Puff",
+      "Heat-Heat",
+      "Cook-Cook",
+      "Mix-Mix",
+      "Push-Push",
+      "Pump-Pump",
+      "Millet-Millet",
+      "Time-Time",
+      "Ripe-Ripe",
+      "Scroll-Scroll",
+      "Egg-Egg",
+      "Dice-Dice",
+      "Spike-Spike",
+      "Spring-Spring",
+      "Log-Log",
+      "Age-Age",
+      "Huge-Huge",
+      "Stock-Stock",
+      "Strong-Strong",
+      "Isle-Isle",
+      "Glug-Glug",
+      "Whip-Whip",
+      "Warp-Warp",
+      "Sick-Sick",
+      "Ride-Ride",
+      "Cannon-Cannon",
+      "Grow-Grow",
+      "Arrow-Arrow",
+      "Scream-Scream",
+      "Whisper-Whisper",
+      "Slash-Slash",
+      "Sleep-Sleep",
+      "Mini-Mini",
+      "Shroom-Shroom",
+      "Net-Net",
+      "Copy-Copy",
+      "Back-Back",
+      "Pet-Pet",
+      "More-More",
+      "Cube-Cube",
+      "Magic-Magic",
+      "Nitro-Nitro",
+      "Lust-Lust",
+      "Smelt-Smelt",
+      "Phase-Phase",
+      "Roll-Roll",
+      "Chain-Chain",
+      "Color-Color",
+      "Gold-Gold",
+      "Luck-Luck",
+      "Vison-Vison",
+      "Shoot-Shoot",
+      "Flab-Flab",
+      "Dissolve-Dissolve",
+      "Clank-Clank",
+      "Wisp-Wisp",
+      "Dance-Dance",
+      "Sing-Sing",
+      "Grab-Grab",
+      "Puppet-Puppet",
+      "Phantom-Phantom",
+      "Span-Span",
+      "Change-Change",
+      "Sake-Sake",
+      "Chibi-Chibi",
+      "Split-Split",
+      "Speed-Speed",
+      "Sponge-Sponge",
+      "Shock-Shock",
+      "Money-Money",
+      "Block-Block",
+      "Blast-Blast",
+      "House-House",
+      "Bounce-Bounce",
+      "Give-Give",
+      "Balloon-Balloon",
+      "Bandage-Bandage",
+      "Bread-Bread",
+      "Cable-Cable",
+      "Card-Card",
+      "Hair-Hair",
+      "Laser-Laser",
+      "Plastic-Plastic",
+      "Rot-Rot",
+      "Boat-Boat"
+    ],
+    "logia": [
+      "Smoke-Smoke",
+      "Sand-Sand",
+      "Flare-Flare",
+      "Rumble-Rumble",
+      "Chilly-Chilly",
+      "Dark-Dark",
+      "Glint-Glint",
+      "Magma-Magma",
+      "Swamp-Swamp",
+      "Gas-Gas",
+      "Snow-Snow",
+      "Forest-Forest",
+      "Mercury-Mercury",
+      "Storm-Storm",
+      "Earth-Earth",
+      "Cloud-Cloud",
+      "Dust-Dust"
+    ],
+    "zoan": [
+      "Bison",
+      "Human",
+      "Falcon",
+      "Dachshund",
+      "Mole",
+      "Jackal",
+      "Horse",
+      "Leopard",
+      "Elephant",
+      "Wolf",
+      "Giraffe",
+      "Allosaurus",
+      "King Cobra",
+      "Anaconda",
+      "Phoenix",
+      "Giant Buddah",
+      "Turtle",
+      "Axolotl",
+      "Rhino Beetle",
+      "Hornet",
+      "Mammoth",
+      "Albatross",
+      "Tanuki",
+      "Azure Dragon",
+      "Nine-Tailed Fox",
+      "Makami",
+      "Eight-Headed Serpent",
+      "Spinosaurus",
+      "Pteradon",
+      "Brachiosaurus",
+      "Pachycephalosaurus",
+      "Triceratops",
+      "Rosamygale Grauvogile",
+      "Sabertooth Tiger",
+      "Dalmation",
+      "Onyudo",
+      "Pegasus",
+      "Sandworm",
+      "Bakotsu",
+      "Itsumade",
+      "Fenxi",
+      "Cerberus",
+      "Qilin",
+      "Kirin",
+      "Western Dragon",
+      "Vampire",
+      "Nue",
+      "Alpaca",
+      "Eagle",
+      "Cheetah",
+      "Hound",
+      "Sea Otter",
+      "Bat",
+      "Egg",
+      "Zebra",
+      "Rhinoceros",
+      "Koala",
+      "Minotaur",
+      "Ashura",
+      "Wukong",
+      "Stag Beetle",
+      "Ant",
+      "Butterfly",
+      "Moth",
+      "Dragonfly",
+      "Mantis",
+      "Black Widow",
+      "Black Mamba",
+      "Duck",
+      "Owl",
+      "Thunderbird",
+      "Griffon",
+      "Vulture",
+      "Mantis Shrimp",
+      "Pistol Shrimp",
+      "Black Cat",
+      "House Cat",
+      "Tiger",
+      "Lion",
+      "Panther",
+      "Bear",
+      "Polar Bear",
+      "Dragon Turtle",
+      "Hydra",
+      "Lou Carcolh",
+      "Unicorn",
+      "Chameleon",
+      "Komodo Dragon",
+      "Monitor Lizard",
+      "Squirrel",
+      "Monkey",
+      "Rabbit",
+      "Shark",
+      "Hammerhead Shark",
+      "Orca",
+      "Mudskipper",
+      "Jormungandr",
+      "Scorpion",
+      "Werewolf",
+      "Fenrir",
+      "Garm",
+      "Rat",
+      "Weasel",
+      "Box Jellyfish",
+      "Frog",
+      "Harpy",
+      "Siren",
+      "Sponge",
+      "Aardvark",
+      "Anteater",
+      "Honey Badger",
+      "Wolverine",
+      "Sea Wife",
+      "Enma Daio",
+      "Chimera",
+      "Crab",
+      "Lobster",
+      "Gorilla",
+      "Baboon",
+      "Lemur",
+      "Sphinx",
+      "Cyclops",
+      "Dire Wolf",
+      "Ground Sloth",
+      "Elk",
+      "Deer",
+      "Moose",
+      "Stag",
+      "Beaver",
+      "Boar",
+      "Pig",
+      "Mastodon",
+      "Tapir",
+      "Walrus",
+      "Badger",
+      "Musk Ox",
+      "Ox",
+      "Caribou",
+      "Pronghorn",
+      "Antelope",
+      "Fox",
+      "Vole",
+      "Camel",
+      "Dodo",
+      "Tortoise",
+      "Manatee",
+      "Dolphin",
+      "Auroch",
+      "Auk",
+      "Glyptodon",
+      "Tasmanian Tiger",
+      "Peacock",
+      "Golden Eagle"
+    ]
+  },
+  "entities": [
+    {
+      "id": "char-glaurt",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Gulliver Glaurt",
+      "aliases": [
+        "Battleship-Basher Blaurt",
+        "EnglishExpert"
+      ],
+      "status": "Active",
+      "race": "Wotan",
+      "class": "Rogue Bruiser",
+      "affiliation": "Marines",
+      "devil fruit": "Mudskipper",
+      "description": "Half-fishman half-giant. Boxer background. Bit of a casanova, Johnny Bravo/Might Guy/All Might inspirations. Injured as a boxer, went into medical debt in the Island Kingdom of Prodence, joined the Marines to pay it back.",
+      "facts": {
+        "Favorite Number": "22",
+        "Animal Resemblance": "Seahorse",
+        "Color Motif": "Pastel orange, black and gold",
+        "Specific Smell": "Myrtle and coconut",
+        "Blood Type": "X",
+        "Favorite Season/Island": "Summer",
+        "Favorite Food": "Prawn cocktail",
+        "Nationality": "American",
+        "Inner Thoughts": "I've done it before, I can do it again. Why not? Johnny Bravo voice: Whoah mama",
+        "Favorite Flower": "Orchid",
+        "Sea of Origin": "Grand Line",
+        "Typical Hours Slept": "7",
+        "Least Favorite Food": "Chocolate ice cream",
+        "Do They Crunch Ice": "No",
+        "Ideal Devil Fruit": "Anything cool",
+        "Alcohol Tolerance": "Moderate"
+      },
+      "notes": [
+        "Kill count: 2 fodder on Ornigol's ship, 1 fishman on boat, 1 fishman in water."
+      ]
+    },
+    {
+      "id": "char-shura",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Shimazu Shura",
+      "aliases": [
+        "Chompe"
+      ],
+      "status": "Active",
+      "race": "Human",
+      "class": "Fighter Samurai",
+      "affiliation": "Marines",
+      "devil fruit": "Sponge-Sponge",
+      "description": "Session zero: beaten up for 45 minutes by Ornigol. Met Woodes on Cape Share after spending a month unconscious in his shed.",
+      "facts": {
+        "Animal Resemblance": "Honey badger",
+        "Favorite Number": "3",
+        "Color Motif": "Brown or black main colors with more colorful accents of red, blue or purple",
+        "Specific Smell": "Summer breezes, blood",
+        "Blood Type": "F",
+        "Favorite Season/Island": "Quiet",
+        "Favorite Food": "Stew or curry",
+        "Nationality": "Japanese, specifically rural Kagoshima",
+        "Inner Thoughts": "Get up, keep going, never stop, for them, not just me",
+        "Favorite Flower": "Lilacs",
+        "Sea of Origin": "East Blue",
+        "Typical Hours Slept": "7 hours, 1 hour of just laying around in bed",
+        "Least Favorite Food": "Oatmeal",
+        "Do They Crunch Ice": "One crunch",
+        "Ideal Devil Fruit": "Any, he'll make it work",
+        "Alcohol Tolerance": "Medium leaning on the lighter side"
+      }
+    },
+    {
+      "id": "char-orion",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Celestia Orion",
+      "aliases": [
+        "Rectorious"
+      ],
+      "status": "Deceased",
+      "race": "Buccaneer",
+      "devil fruit": "Swamp-Swamp",
+      "class": "Barbarian Canonneer",
+      "affiliation": "Marines",
+      "description": "Ex-slave to Tambora. Big guy, has a bow with a 'z' marking. Called 'most boring marine' by Cozy."
+    },
+    {
+      "id": "char-shivbh",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Shivbh",
+      "aliases": [
+        "Cozy",
+        "Shiv"
+      ],
+      "status": "Active",
+      "race": "Undead Fishman",
+      "class": "Brawler Six Powers",
+      "affiliation": "Marines",
+      "description": "Fishwoman Cyborg. Plans to multiclass into zealot. Possesses 3 of the six powers.",
+      "facts": {
+        "Animal Resemblance": "Sturgeon",
+        "Favorite Number": "36",
+        "Color Motif": "Stormy blue, white, black",
+        "Specific Smell": "Petrichor",
+        "Blood Type": "F",
+        "Favorite Season/Island": "Autumn or Winter, cold islands",
+        "Favorite Food": "TBD",
+        "Nationality": "Scottish",
+        "Inner Thoughts": "Stay indifferent, terrify, prove your worth, what if I'm wrong, testify my identity, I have no identity, follow orders",
+        "Favorite Flower": "Thistle",
+        "How Often They Bathe": "Twice daily, very intent about keeping hair clean",
+        "Sea of Origin": "Fishman Island",
+        "Typical Hours Slept": "4",
+        "Least Favorite Food": "Fish Oil",
+        "Do They Crunch Ice": "Yes, violently",
+        "Ideal Devil Fruit": "No",
+        "Alcohol Tolerance": "Low, shuts down when drunk"
+      }
+    },
+    {
+      "id": "char-quintessa",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Pentago Quintessa",
+      "aliases": [
+        "Jacob"
+      ],
+      "status": "Active",
+      "race": "Modified human",
+      "class": "Artificer Alchemist",
+      "devil fruit": "Doze-Doze",
+      "affiliation": "Marines",
+      "description": "Tiny alcoholic. \n5'2\" per Anthony, 5'1\" per V.",
+      "facts": {
+        "Animal Resemblance": "Star-nosed mole, rooster",
+        "Favorite Number": "(begrudgingly) five",
+        "Color Motif": "Orange (among other bright 'acidic' colours)",
+        "Specific Smell": "Citrus, honey",
+        "Blood Type": "O-negative",
+        "Favorite Season/Island": "Nice beaches",
+        "Favorite Food": "Pizza, blood oranges",
+        "Nationality": "Daneish",
+        "Inner Thoughts": "Proving myself, perfecting my crafts, justice",
+        "Favorite Flower": "Poppy",
+        "How Often They Bathe": "Twice a day",
+        "Sea of Origin": "North Blue",
+        "Typical Hours Slept": "The bare minimum (burning the candle at both ends)",
+        "Least Favorite Food": "Hardtack",
+        "Do They Crunch Ice": "No, but they do like rubbing it on their scars",
+        "Ideal Devil Fruit": "All devil fruits are evil in her eyes (but she might eat one anyways)",
+        "Alcohol Tolerance": "Frequent partaker, likes to drink while working"
+      }
+    },
+    {
+      "id": "char-drake",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Doflamingo Drake",
+      "aliases": [
+        "Joseph"
+      ],
+      "status": "Deceased",
+      "race": "Human",
+      "class": "Medic",
+      "affiliation": "Marines",
+      "description": "Entry is struck through in the campaign notes.",
+      "facts": {
+        "Animal Resemblance": "Roseate Spoonbill",
+        "Favorite Number": "44",
+        "Color Motif": "Pink/Navy Blue/Gold",
+        "Specific Smell": "Hair conditioner",
+        "Blood Type": "A+",
+        "Favorite Season/Island": "Summer/ Beachy",
+        "Favorite Food": "Most BBQ foods",
+        "Nationality": "German",
+        "Inner Thoughts": "To be the best in the room at any given time, try to do as many new things before his time ends, trying to remember what happened before",
+        "Favorite Flower": "Spiderlily",
+        "How Often They Bathe": "Twice a day (once he wakes up and before he goes to bed) if available",
+        "Sea of Origin": "North Blue",
+        "Typical Hours Slept": "5-7 hours",
+        "Least Favorite Food": "Snails",
+        "Do They Crunch Ice": "Without a doubt",
+        "Ideal Devil Fruit": "No but if one came across his path that would help his dream he would take it",
+        "Alcohol Tolerance": "Extreme drinker"
+      }
+    },
+    {
+      "id": "char-down",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Thomas Down",
+      "aliases": [
+        "Anthony"
+      ],
+      "status": "Deceased",
+      "race": "Skypeian",
+      "class": "Brawler Six Powers",
+      "affiliation": "Pirates",
+      "description": "Entry is struck through in the campaign notes.",
+      "facts": {
+        "Animal Resemblance": "Blue Jay",
+        "Favorite Number": "7",
+        "Color Motif": "Blue",
+        "Specific Smell": "Smells of Pop Rocks and Sea Water",
+        "Blood Type": "S",
+        "Favorite Season/Island": "Snowy Islands",
+        "Favorite Food": "Chocolate and Pizza",
+        "Nationality": "Columbia",
+        "Inner Thoughts": "Girls, Joy, Fun, Adventure, Friendship, God of the Earth, God of the Sun, God of the Rain, God of the Forest, Moon, Red Heads, Blondes, Brunettes, find mother",
+        "Favorite Flower": "Dahlia",
+        "How Often They Bathe": "Everyday",
+        "Sea of Origin": "Grand Line",
+        "Typical Hours Slept": "8 Hours",
+        "Least Favorite Food": "Root Beer Floats",
+        "Do They Crunch Ice": "Let's it melt in his mouth",
+        "Ideal Devil Fruit": "The Goro Goro Fruit or the Dog Dog: Model Wide Mouth Dog fruit",
+        "Alcohol Tolerance": "Doesn't Drink so low"
+      }
+    },
+    {
+      "id": "char-yona",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Shreya Yona",
+      "aliases": [
+        "Cross-Sights",
+        "Clara"
+      ],
+      "status": "Active",
+      "race": "Mink (Hyena)",
+      "class": "Marksman Nighthawk",
+      "affiliation": "Pirates",
+      "description": "Former bounty hunter turned pirate with the help of Vaka D. Ornigol."
+    },
+    {
+  "id": "char-misen",
+  "type": "character",
+  "category": "Player Character",
+  "name": "Yousuke Mi'sen",
+  "aliases": [
+    "Black Tongue",
+    "Yousegay Likes'men",
+    "EthanChaotic1"
+  ],
+  "status": "Active",
+  "race": "Fishman",
+  "class": "Savant",
+  "affiliation": "Pirates",
+  "description": "Yosuke Mi'sen is the scholar of the Merry More Pirates and the eighth member of the crew, joining in the South Blue but denying his place in the crew for several weeks on end until finally caving after the integration of Trench Leon. \n\nAn only child that was raised within the Ryugu Kingdom of Fishman Island to a pair of neglectful and abusive extremist parents, Mi'sen's world was comprised of his books and the constant noise that accompanied his parents preachings of Blauvelt Ancremoor. Growing numb to most forms of physical pain, Mi'sen ventured out to change history revolving around fishmen, especially Blauvelt Ancremoor for the better of the next generation until being captured by Vasily Vintorez and sent aboard a prison vessel on a path towards Impel Down, saved by a freak accident involving Bilge. \n\nHe first gained a bounty of 80,000,000 belly following his escape from the prison vessel and the following raid on the SB05 naval base. It later increased to 90,000,000 belly after a string of events following their misadventures in the Oronorma Kingdom, the island nation of Bellicoze Key and the tourist town of Dusk Teneral."
+  },
+    {
+      "id": "char-scudamoore",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Lionel Scudamoore",
+      "aliases": [
+        "Dr. Scudamoore",
+        "Croaker",
+        "ReverieRunaway"
+      ],
+      "status": "Active",
+      "race": "Human",
+      "class": "Medic Field Surgeon",
+      "affiliation": "Marines",
+      "description": "Clean-freak. Former marine.",
+      "facts": {
+        "Animal Resemblance": "Secretary Bird",
+        "Favorite Number": "120",
+        "Color Motif": "White/ Green/ Black",
+        "Specific Smell": "Mint (to keep the bugs and pest away)",
+        "Blood Type": "S",
+        "Favorite Season/Island": "Spring (full of life and beginnings)",
+        "Favorite Food": "Strip Steak with Russet potatoes and green beans",
+        "Nationality": "Swiss",
+        "Inner Thoughts": "Avenge Them All, Redeem Them All, Save Them All",
+        "Favorite Flower": "Aloe Vera",
+        "How Often They Bathe": "Every day, shampoo every other day to keep his hair healthy",
+        "Sea of Origin": "South Blue",
+        "Typical Hours Slept": "Seven",
+        "Least Favorite Food": "Bacon",
+        "Do They Crunch Ice": "Never, terrible for the teeth",
+        "Ideal Devil Fruit": "Legend speaks of a Doctor who could save lives with miracle operations with the use of the Ope Ope",
+        "Alcohol Tolerance": "High (drinks a lot of water when doing so)"
+      }
+    },
+    {
+      "id": "char-keel",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Fawkes Keel",
+      "aliases": [
+        "Stampede",
+        "Fawkes-Vaka D. Keel",
+        "BorbyCorby"
+      ],
+      "status": "Active",
+      "race": "Buccaneer",
+      "devil fruit": "More-More",
+      "class": "Zealot",
+      "affiliation": "Pirates",
+      "description": "Fawkes Keel is the captain of the Merry More Pirates and the current user of the More More Fruit, establishing his crew after several weeks of operation in the South Blue. \n\nThe only child between Fawkes-Vaka D. Calypso and Fawkes-Vaka Halyard and the heir to the position of chieftain of Brandy Atoll, Keel was born in the Zewao region of Brandy Atoll and was heavily influenced by former comrade of his mother Calypso and uncle Vaka D. Ornigol, Chapman Stede. Inheriting the dream to unlock the Heart of the Sea after gaining a special key from Stede and a hand-me-down tricorn that initally belonged to Allsgrave Tack following the invasion from the Tambora Talismen. With a hunger for battle and copious amounts of food, he plans on taking down Lowe Tambora and his crew with his own and someday hopes to conquer the sea with his many conquests! \n\nHe first gained a bounty of 55,000,000 belly following the raid on the SB05 naval base. It later increased to 100,500,000 belly after a string of events following their misadventures in the Oronorma Kingdom, the island nation of Bellicoze Key and the tourist town of Dusk Teneral."
+    },
+    {
+      "id": "char-yato",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Musashi Yato",
+      "aliases": [
+        "Luland"
+      ],
+      "status": "Active",
+      "race": "Human",
+      "class": "Rogue Fencer",
+      "description": "From Wano. No feats."
+    },
+    {
+      "id": "char-vivaldi",
+      "type": "character",
+      "category": "Player Character",
+      "name": "Battista Vivaldi",
+      "aliases": [
+        "Scarlet Siren",
+        "Dani"
+      ],
+      "status": "Active",
+      "race": "Merfolk",
+      "class": "Musician College of Legends",
+      "description": "Fishwoman, Musician.",
+      "facts": {
+        "Animal Resemblance": "Crimson Halfmoon Betta Splendor",
+        "Favorite Number": "7",
+        "Color Motif": "Red/Orange/Brown (Mostly warm colors)",
+        "Specific Smell": "Sea salt / sandalwood and orchid perfume",
+        "Blood Type": "S",
+        "Favorite Season/Island": "Summer / Tropical, white sandy beaches",
+        "Favorite Food": "Crab Rangoons / Pineapple Upside Down Cake",
+        "Nationality": "Danish",
+        "Inner Thoughts": "Music, show em up, it's showtime~, watch this, be the craftiest, freedom, adventure, friendship, community, money, win, be the best",
+        "Favorite Flower": "Bougainville",
+        "How Often They Bathe": "Once a day",
+        "Sea of Origin": "Red Line",
+        "Typical Hours Slept": "6-8 hours",
+        "Least Favorite Food": "Meatloaf",
+        "Do They Crunch Ice": "Yes, sometimes obnoxiously",
+        "Ideal Devil Fruit": "Nui Nui no Mi (a hood classic)",
+        "Alcohol Tolerance": "High (god save her liver)"
+      }
+    },
+    {
+    "id": "char-tack",
+    "type": "character",
+    "category": "Emperor",
+    "name": "Allsgrave Tack",
+    "aliases": [
+      "Fool's Gold",
+      "King of Fools",
+      "Lord Allsgrave",
+      "Old Man Moron"
+    ],
+    "status": "Deceased",
+    "race": "Human",
+    "devil fruit": "More-More",
+    "affiliation": "Pirates",
+    "description": "Allsgrave Tack is the captain of the Wishaul Pirates and a former user of the More More Fruit, establishing his crew in the West Blue. \n\nFormerly a businessman running the Allsgrave Barques & Bite, leaving his home of Golhord Providence to become a pirate after being inspired by local pirates that would stop by his shipbuilding and catering company, especially a captain by the name of Black Bell. Leaving his wife, Marianne and his son Wylliam, he built the Friday Departure and eventually shipwrecked on a small island, finding the More More Fruit. For several decades he sailed with his growing crew as an rookie in his 40s. Gaining infamy, rivals and more, he'd end up taking many young apprentices, begrudgingly at first, that would lead to some important names in Chapman Stede, Vaka Calypso and Vaka Ornigol. \n\nAs a pirate, Tack was known for his outlandish and maddening tactics and actions across the world, defacing countless powers of their prestige. Despite his old age, his career lasted a surprisingly long while, taking on countless apprentices and triumphing over hundreds of pirate crews and Marine units. His infamy echoes across the world, as his battles shifted the landscape of several islands across the Grand Line, and his greatest achievement potentially being the Olstomb Crater outside of the Holy City of Mariejois. Fighting foes that had the advantage in age and power, his uncanny ability to improvise and keep his attitude up allowed the determined geezer to gain popularity amongst rookie pirates in his reign known as the “Reign of Fools”. Tack’s impressive power would later inspire the implementation of the Seven Warlords of the Sea from the Marines during his era. \n\nWith a slowly growing bounty over the many decades and battles he fought with other Emperors of the Sea such as Grant Richter, Rakam Dhow and Wallo Sojourner, and powerful Marines such as Admiral Umiryu. At the end of his career, Allsgrave Tack's bounty ended up at an immense  5,464,900,000 belly that was only recently cancelled with the confirmation of his passing by Lowe Tambora.",
+    "facts": {
+      "Signature Laugh": "Gushashasha!",
+      "Animal Resemblance": "Sea otter",
+      "Favorite Number": "+",
+      "Color Motif": "Green, brown and gold",
+      "Specific Smell": "Sweat, ale and dirt",
+      "Blood Type": "Red?",
+      "Favorite Season/Island": "Summer",
+      "Favorite Food": "Shepherd's pie",
+      "Nationality": "English",
+      "Inner Thoughts": "Piracy, XXX, Crew, Nakagoro",
+      "Favorite Flower": "Corpse flower",
+      "Sea of Origin": "West Blue",
+      "Typical Hours Slept": "7",
+      "Least Favorite Food": "Stockfish",
+      "Do They Crunch Ice": "Yes",
+      "Ideal Devil Fruit": "More More Fruit",
+      "Alcohol Tolerance": "Extremely High",
+      "Real World Job": "Door-to-door salesman",
+      "Birthday": "September 8th",
+      "Favorite Color": "Yellow",
+      "Unusual Talents": "Cooking, story-telling and coin-spinning",
+      "Bathing Habits": "Twice a week"
+      },
+      "notes": [
+        "Allsgrave Tack was based on Paulsgrave Williams and John Silver, Tack has more bastard children spread across the world than there are members of both parties combined and doubled"
+      ]
+    },
+    {
+      "id": "char-ancremoore",
+      "type": "character",
+      "category": "Emperor",
+      "name": "Blauvelt Ancremoore",
+      "aliases": [
+        "Arm of the Sea",
+        "Dreadnought"
+      ],
+      "status": "Active",
+      "race": "Fishman (Blue Whale)",
+      "description": "V's #2 favourite emperor. Namesake based on a pirate, Abraham Blauvelt. \"Ancremoor only gets refreshers or blonde shaken espressos.\" - V\n\nAnimal Resemblance: \"Ancremoor is a whale.\" - V"
+    },
+    {
+      "id": "char-tambora",
+      "type": "character",
+      "category": "Emperor",
+      "name": "Lowe Tambora",
+      "aliases": [
+        "Scorched Tyrant",
+        "Prince of Darkness",
+        "Deal Devil",
+        "Mountain Song",
+        "Ol' Bora"
+      ],
+      "status": "Active",
+      "race": "Giant (Ancient)",
+      "devil fruit": "Magma-Magma",
+      "description": "Killed Tack. Likely replaced Tack as Warlord. V's #1 favourite emperor. Namesake based on a pirate and a volcano, Edward Low and Mount Tambora.",
+      "facts": {
+        "Animal Resemblance": "Pouter Pigeon",
+        "Favorite Number": "Nine",
+        "Color Motif": "Red/Black/White/Yellow",
+        "Specific Smell": "Burning perfume",
+        "Blood Type": "F",
+        "Favorite Season/Island": "Summer",
+        "Favorite Food": "Curry",
+        "Nationality": "Scandinavian",
+        "Inner Thoughts": "Conquer, me, theatre, god, Ancremoor",
+        "Favorite Flower": "Sunflower",
+        "How Often They Bathe": "Twice a day",
+        "Sea of Origin": "New World",
+        "Typical Hours Slept": "Nine hours",
+        "Least Favorite Food": "Angus",
+        "Do They Crunch Ice": "Swallow",
+        "Ideal Devil Fruit": "Magma fruit",
+        "Alcohol Tolerance": "High"
+      }
+    },
+    {
+      "id": "char-sawkins",
+      "type": "character",
+      "category": "Emperor",
+      "name": "Pavise Sawkins",
+      "aliases": [
+        "Port Keep",
+        "Deadman's Gaze"
+      ],
+      "status": "Active",
+      "race": "Human",
+      "description": "V's #5 favourite emperor. Namesake based on a type of shield. \"Sawkins absolutely gets a Grande Pike Place with a single ice cube in it. Decaf by the way.\" - V\n\nVery perceptive due to almost dying to Dohebi.\n\nAnimal Resemblance: \"Sawkins would probably resemble a German Shepherd or any herding dogs.\" - V"
+    },
+    {
+      "id": "char-joan",
+      "type": "character",
+      "category": "Emperor",
+      "name": "Corbett Joan",
+      "aliases": [
+        "Apex Predator"
+      ],
+      "status": "Active",
+      "race": "Human (Three-eye Tribe) (Long-leg Tribe)",
+      "description": "V's #6 favourite emperor. \"Joan absolutely gets lemonade with cinnamon dolce in it, blended with light ice.\" - V\n\nAnimal Resemblance: \"Joan if she doesn't use the Griffin is probably close to a Kangaroo to be entirely honest.\" - V"
+    },
+    {
+      "id": "char-sojourner",
+      "type": "character",
+      "category": "Emperor",
+      "name": "Wallo Sojourner",
+      "aliases": [
+        "Moon Step"
+      ],
+      "status": "Active",
+      "race": "Human",
+      "description": "V's #4 favourite emperor."
+    },
+    {
+      "id": "char-richter",
+      "type": "character",
+      "category": "Emperor",
+      "name": "Grant Richter",
+      "aliases": [
+        "Island Eater"
+      ],
+      "status": "Active",
+      "race": "Human",
+      "description": "V's #7 favourite emperor."
+    },
+    {
+      "id": "char-gyre",
+      "type": "character",
+      "category": "Emperor",
+      "name": "Axton Gyre",
+      "aliases": [
+        "Rising Steel"
+      ],
+      "status": "Active",
+      "race": "Human",
+      "description": "V's #8 favourite emperor."
+    },
+    {
+      "id": "char-yiban",
+      "type": "character",
+      "category": "Warlord",
+      "name": "Belladonna Xochi-Yiban",
+      "aliases": [
+        "Death Row Bloom",
+        "Cellblock Temptress"
+      ],
+      "status": "Active",
+      "description": "Lust? Daughter of Hydrangea. Recent Warlord. Spent a month \"platonically\" hanging out with Thomas Down."
+    },
+    {
+      "id": "char-locke",
+      "type": "character",
+      "category": "Warlord",
+      "name": "Zhilong Locke",
+      "aliases": [
+        "The Quarrel"
+      ],
+      "status": "Active",
+      "description": "Wrath? First Warlord of the sea. Inspired by Beetlejuice."
+    },
+    {
+      "id": "char-woodes",
+      "type": "character",
+      "category": "Pirate",
+      "name": "Woodes",
+      "aliases": [
+        "Old Woody"
+      ],
+      "status": "Active",
+      "description": "First mate of Allsgrave Tack."
+    },
+    {
+      "id": "char-lugosi",
+      "type": "character",
+      "category": "Warlord",
+      "name": "Lon Lugosi",
+      "aliases": [
+        "Father Lupine"
+      ],
+      "status": "Active",
+      "description": "Envy? Recent Warlord. Namesake is an actor, Bela Lugosi."
+    },
+    {
+      "id": "char-warlow",
+      "type": "character",
+      "category": "Warlord",
+      "name": "Nueheimer Warlow",
+      "aliases": [
+        "Black Doctrine"
+      ],
+      "status": "Active",
+      "description": "Sloth?"
+    },
+    {
+      "id": "char-anundr",
+      "type": "character",
+      "category": "Pirate",
+      "name": "Anundr",
+      "aliases": [],
+      "status": "Active",
+      "description": "Left Elbaf because nobody wanted to fight Tambora."
+    },
+    {
+      "id": "char-tephra",
+      "type": "character",
+      "category": "Pirate",
+      "name": "Lowe Tephra",
+      "aliases": [
+        "Prince of Pyres"
+      ],
+      "status": "Active",
+      "description": "First mate of Lowe Tambora. 24 years old."
+    },
+    {
+      "id": "char-morgana",
+      "type": "character",
+      "category": "Pirate",
+      "name": "Lati Morgana",
+      "aliases": [
+        "God Mother"
+      ],
+      "status": "Active"
+    },
+    {
+      "id": "char-ornigol",
+      "type": "character",
+      "category": "Pirate",
+      "name": "Vaka D. Ornigol",
+      "aliases": [
+        "Davy D. Ornigol",
+        "Ornigol",
+        "Gold Grin",
+        "FAT"
+      ],
+      "status": "Active",
+      "description": "Uncle of Fawkes Keel. \"Really insane. A genuine danger to the world.\" - Anthony\n\nUses a fire fruit, mera-mera no mi(?). Reportedly has a spider-zoan fruit (according to the marines)."
+    },
+    {
+      "id": "char-graff",
+      "type": "character",
+      "category": "Pirate",
+      "name": "Riptide Graff",
+      "aliases": [
+        "Sea Splitter"
+      ],
+      "status": "Active",
+      "affiliation": "Ancremoor",
+      "description": "Heir to Ancremoor's pirate crew."
+    },
+    {
+      "id": "char-mercal",
+      "type": "character",
+      "category": "Pirate",
+      "name": "Grant Mercal",
+      "aliases": [],
+      "status": "Active",
+      "race": "Human",
+      "description": "Inspired by Jack Black."
+    },
+    {
+      "id": "char-bluebonnet",
+      "type": "character",
+      "category": "Pirate",
+      "name": "Bluebonnet",
+      "aliases": [],
+      "status": "Active",
+      "affiliation": "Amazon Lily",
+      "description": "Empress of Amazon Lily."
+    },
+    {
+      "id": "char-boudewayn",
+      "type": "character",
+      "category": "Pirate",
+      "name": "Diuvel Boudewayn",
+      "aliases": [],
+      "status": "Active",
+      "description": "\"May or may not be married to a Tontata\" - Anthony"
+    },
+    {
+      "id": "char-shpatzi",
+      "type": "character",
+      "category": "Pirate",
+      "name": "Shpatzi",
+      "aliases": [],
+      "status": "Active",
+      "affiliation": "Thomas Down",
+      "description": "Only crewmate of Thomas Down."
+    },
+    {
+      "id": "char-fraiser",
+      "type": "character",
+      "category": "Pirate",
+      "name": "Fraiser",
+      "aliases": [
+        "Wild Storm"
+      ],
+      "status": "Active",
+      "description": "Devil fruit merchant. Bounty 541,570,000."
+    },
+    {
+      "id": "char-nakagoro",
+      "type": "character",
+      "category": "Marine",
+      "name": "Fleet Admiral Nakagoro",
+      "aliases": [
+        "Admiral Umiryu",
+        "Naka"
+      ],
+      "status": "Active",
+      "rank": "Fleet Admiral",
+      "description": "Gay for Allsgrave Tack."
+    },
+    {
+      "id": "char-kiritaka",
+      "type": "character",
+      "category": "Marine",
+      "name": "Kiritaka",
+      "aliases": [],
+      "status": "Active",
+      "rank": "Admiral",
+      "race": "Human",
+      "description": "9ft5. \"Kiritaka orders Signature Bunn Iced Coffee with Lavender cold foam. He always gets the Lavender cold foam to get a foam mustache.\" - V\n\nKiritaka has clashed with Ancremoor on several occasions."
+    },
+    {
+      "id": "char-dohebi",
+      "type": "character",
+      "category": "Marine",
+      "name": "Irezumi",
+      "aliases": [
+        "Admiral Dohebi",
+        "The Chain",
+        "Copper Snake"
+      ],
+      "status": "Active",
+      "rank": "Admiral",
+      "description": "7ft3. \"Cookie Mocha Frap with Extra Ice, Extra Whip, Extra Drizzle, Strawberry Inclusions and trenta sized. Every other day of the year, Dohebi gets water. And a single Spinach Feta Wrap. She always gives a 5 dollar tip. Good Marines tip.\" - V\n\nOnce almost killed Sawkins, but wasn't legally allowed. As a result, Sawkins is very perceptive."
+    },
+    {
+      "id": "char-aoshika",
+      "type": "character",
+      "category": "Marine",
+      "name": "Aoshika",
+      "aliases": [],
+      "status": "Active",
+      "rank": "Admiral",
+      "devil fruit": "Port-Port",
+      "description": "8ft4. User of the Port-Port fruit."
+    },
+    {
+      "id": "char-meridian",
+      "type": "character",
+      "category": "Marine",
+      "name": "Manmayer Meridian",
+      "aliases": [
+        "Admiral Haretori",
+        "Mom"
+      ],
+      "status": "Active",
+      "rank": "Vice Admiral",
+      "description": "Blauvelt Ancremoor's adopted daughter. Has not been spoken to by her adopted father in 13 years. 5'8\".",
+      "facts": {
+        "Animal Resemblance": "Otter",
+        "Favorite Number": "419",
+        "Color Motif": "Blue, orange and white",
+        "Specific Smell": "Sea salt",
+        "Blood Type": "X",
+        "Favorite Season/Island": "Summer",
+        "Favorite Food": "Crab cakes",
+        "Nationality": "Grecian",
+        "Inner Thoughts": "Beach, Friends, Food, Marines, Ancremoor",
+        "Favorite Flower": "Sea Holly",
+        "How Often They Bathe": "Once an evening",
+        "Sea of Origin": "East Blue",
+        "Typical Hours Slept": "8 to 9 hours",
+        "Least Favorite Food": "Overpriced, high class food",
+        "Do They Crunch Ice": "Yes",
+        "Ideal Devil Fruit": "If forced, Swim-Swim Fruit",
+        "Alcohol Tolerance": "Lightweight"
+      }
+    },
+    {
+      "id": "char-amesagi",
+      "type": "character",
+      "category": "Marine",
+      "name": "Vice Admiral Amesagi",
+      "aliases": [],
+      "status": "Active",
+      "rank": "Vice Admiral"
+    },
+    {
+      "id": "char-beniushi",
+      "type": "character",
+      "category": "Marine",
+      "name": "Vice Admiral Beniushi",
+      "aliases": [],
+      "status": "Active",
+      "rank": "Vice Admiral"
+    },
+    {
+      "id": "char-ginryoken",
+      "type": "character",
+      "category": "Marine",
+      "name": "Vice Admiral Ginryoken",
+      "aliases": [],
+      "status": "Active",
+      "rank": "Vice Admiral"
+    },
+    {
+      "id": "char-shirouma",
+      "type": "character",
+      "category": "Marine",
+      "name": "Vice Admiral Shirouma",
+      "aliases": [],
+      "status": "Active",
+      "rank": "Vice Admiral"
+    },
+    {
+      "id": "char-tetsusake",
+      "type": "character",
+      "category": "Marine",
+      "name": "Vice Admiral Tetsusake",
+      "aliases": [],
+      "status": "Active",
+      "rank": "Vice Admiral",
+      "description": "Voice claim: Robin Williams."
+    },
+    {
+      "id": "char-kininari",
+      "type": "character",
+      "category": "Marine",
+      "name": "Rear Admiral Kininari",
+      "aliases": [],
+      "status": "Active",
+      "rank": "Rear Admiral"
+    },
+    {
+      "id": "char-kuroneko",
+      "type": "character",
+      "category": "Marine",
+      "name": "Rear Admiral Kuroneko",
+      "aliases": [],
+      "status": "Active",
+      "rank": "Rear Admiral"
+    },
+    {
+      "id": "char-yukicho",
+      "type": "character",
+      "category": "Marine",
+      "name": "Rear Admiral Yukicho",
+      "aliases": [],
+      "status": "Active",
+      "rank": "Rear Admiral"
+    },
+    {
+      "id": "char-velda",
+      "type": "character",
+      "category": "Marine",
+      "name": "Astein Velda",
+      "aliases": [],
+      "status": "Active",
+      "rank": "Warrant Officer",
+      "devil fruit": "Pump-Pump",
+      "description": "Devil Fruit: Pump-Pump Fruit. Can motivate surrounding allies, \"pumping\" up their stats. She was originally born in the North Blue, on an island called Gallowstay Island. She had a father that was in the Marines, who later would become a pirate. She has a strict no kill rule and moral code. She was demoted several years prior from Lieutenant to Warrant Officer due to clashing with superior officers in physical confrontations during several missions, as well as for insubordination. She is not the highest ranking officer in her base, but is undoubtedly the strongest, due to being the only one to have been based in the Grand Line at a time. Her sword is a Flanking Company Officer's Sword from 1803. She frequently trains her body and mind, usually training with her blade.",
+      "facts": {
+        "Favorite Dessert": "Sherbert",
+        "Favorite Food": "Salad",
+        "Birthday": "November 22nd"
+      }
+    },
+    {
+      "id": "char-doppitori",
+      "type": "character",
+      "category": "Marine",
+      "name": "Choreboy Doppitori",
+      "aliases": [],
+      "status": "Active",
+      "description": "Wants to be an Admiral with a massive build and the Rock Rock fruit, wielding a large hammer. In reality they're a chubby 16 year old that hasn't trained yet."
+    },
+    {
+      "id": "char-byrd",
+      "type": "character",
+      "category": "Marine",
+      "name": "Jules Byrd",
+      "aliases": [],
+      "status": "Active",
+      "description": "\"He's a bum.\" - Anthony"
+    },
+    {
+      "id": "char-ikeda",
+      "type": "character",
+      "category": "Marine",
+      "name": "Ikeda",
+      "aliases": [
+        "Granny Ikeda"
+      ],
+      "status": "Active"
+    },
+    {
+      "id": "char-minobiko",
+      "type": "character",
+      "category": "Marine",
+      "name": "Minobiko",
+      "aliases": [
+        "Clumsy Cow",
+        "Mini"
+      ],
+      "status": "Active",
+      "race": "Oni",
+      "description": "11 feet tall"
+    },
+    {
+      "id": "char-hazard",
+      "type": "character",
+      "category": "Marine",
+      "name": "Maynard Hazard",
+      "aliases": [],
+      "status": "Active",
+      "affiliation": "Marines",
+      "description": "Rope user. Son of Allsgrave Tack. Age 25.",
+      "notes": [
+        "Daily routine: wake up early, eat, work out for two hours, hygiene, review rope knots and rigging, practice singing an old shanty while doing light cleaning, make sure things are triple secured for safety, read the world news and comic strips, call family for 30 minutes to an hour via transponder snail, try a new useless hobby, eat lunch (preferably burger or diner food), health check on injuries/scars, go to room and ruminate, lap around the vessel then practice swinging rope, triple check safety precautions a second time, work out for an hour, eat dinner, cold shower, sleep."
+      ]
+    },
+    {
+      "id": "char-deus-machina",
+      "type": "character",
+      "category": "NPC",
+      "name": "Deus Machina",
+      "aliases": [],
+      "status": "Active",
+      "description": "Leader of the pirates invading Hangward Isles."
+    },
+    {
+      "id": "char-fadaha",
+      "type": "character",
+      "category": "NPC",
+      "name": "Fadaha",
+      "aliases": [],
+      "status": "Active",
+      "description": "Fish bitch."
+    },
+    {
+      "id": "char-auphine",
+      "type": "character",
+      "category": "NPC",
+      "name": "Marie Auphine",
+      "aliases": [],
+      "status": "Active",
+      "description": "Wearing a dress with a cloak over it."
+    },
+    {
+      "id": "char-hydrangea",
+      "type": "character",
+      "category": "NPC",
+      "name": "Hydrangea",
+      "aliases": [],
+      "status": "Active",
+      "description": "Mother of Belladonna Xochi-Yiban."
+    },
+    {
+      "id": "char-iluc",
+      "type": "character",
+      "category": "NPC",
+      "name": "Iluc",
+      "aliases": [],
+      "status": "Active",
+      "description": "\"Neutral at the moment\" - Anthony. Pronounced 'iloos'."
+    },
+    {
+      "id": "char-datura",
+      "type": "character",
+      "category": "NPC",
+      "name": "Dr. Datura",
+      "aliases": [],
+      "status": "Active"
+    },
+    {
+      "id": "char-haiyan",
+      "type": "character",
+      "category": "NPC",
+      "name": "Dr. Haiyan",
+      "aliases": [],
+      "status": "Active",
+      "description": "\"Fucked up and evil\" - Anthony. Creator of Iluc."
+    },
+    {
+      "id": "char-villon",
+      "type": "character",
+      "category": "Old Character",
+      "name": "Anne Villon",
+      "aliases": [],
+      "status": "No longer canon",
+      "description": "Slave trader. No longer canon."
+    },
+    {
+      "id": "char-beryl",
+      "type": "character",
+      "category": "NPC",
+      "name": "Jeanne Beryl",
+      "aliases": [],
+      "status": "Active",
+      "affiliation": "Pavise Sawkins",
+      "description": "\"Jeanne Beryl could tango with some of the Warlords. But her strength lies mainly in knowledge. And her ability to manage her husband.\" - V\n\nMarried to the Warlord Sawkins."
+    },
+    {
+      "id": "char-halyard",
+      "type": "character",
+      "category": "NPC",
+      "name": "Fawkes Halyard",
+      "aliases": [],
+      "description": "Father of Fawkes Keel. Currently a slave."
+    },
+    {
+      "id": "char-calypso",
+      "type": "character",
+      "category": "NPC",
+      "name": "Fawkes-Vaka D. Calypso",
+      "aliases": [
+        "Davy D. Calypso"
+      ],
+      "status": "Active",
+      "description": "Mother of Fawkes Keel. Sister of Vaka D. Ornigol."
+    },
+    {
+      "id": "char-finley",
+      "type": "character",
+      "category": "NPC",
+      "name": "Finley",
+      "aliases": [],
+      "status": "Missing",
+      "description": "Shura's close friend, kidnapped or potentially dead."
+    },
+    {
+      "id": "char-peck",
+      "type": "character",
+      "category": "NPC",
+      "name": "Peck",
+      "aliases": [],
+      "status": "Missing",
+      "description": "Shura's close friend, kidnapped or potentially dead."
+    },
+    {
+      "id": "char-portheo",
+      "type": "character",
+      "category": "NPC",
+      "name": "Portheo",
+      "aliases": [],
+      "status": "Active",
+      "description": "Minobiko's ex-bf."
+    },
+    {
+      "id": "char-vohkt",
+      "type": "character",
+      "category": "NPC",
+      "name": "Vohkt",
+      "aliases": [],
+      "status": "Active",
+      "description": "Funky alien musician. Orion fed him to a sea king."
+    },
+    {
+      "id": "char-vintorez",
+      "type": "character",
+      "category": "NPC",
+      "name": "Vasily Vintorez",
+      "aliases": [],
+      "status": "Active",
+      "race": "Human",
+      "devil fruit": "Dust-Dust",
+      "description": "Secretly a fucked up psychopath. Wanted to join CP 0."
+    },
+    {
+      "id": "group-lowes",
+      "type": "group",
+      "category": "Crew",
+      "name": "Tambora Talismen",
+      "aliases": [],
+      "status": "Active",
+      "description": "Tambora's \"Family\".",
+      "roster": [
+        {
+          "name": "Lowe Cavill",
+          "age": 42
+        },
+        {
+          "name": "Lowe Marien",
+          "age": 40
+        },
+        {
+          "name": "Lowe Jeske",
+          "age": 32
+        },
+        {
+          "name": "Lowe Kaga",
+          "age": 40
+        },
+        {
+          "name": "Lowe Gyula",
+          "age": 38
+        },
+        {
+          "name": "Lowe Korberg",
+          "age": 42
+        },
+        {
+          "name": "Lowe Stasierowski",
+          "age": 42
+        },
+        {
+          "name": "Lowe Poort",
+          "age": 25
+        },
+        {
+          "name": "Lowe Burgess",
+          "age": 39
+        },
+        {
+          "name": "Lowe Brussman",
+          "age": 41
+        },
+        {
+          "name": "Lowe Guest",
+          "age": 30
+        },
+        {
+          "name": "Lowe Jezek",
+          "age": 26
+        },
+        {
+          "name": "Lowe Ravn",
+          "age": 29
+        },
+        {
+          "name": "Lowe Leyton",
+          "age": 28
+        },
+        {
+          "name": "Lowe Olaffson",
+          "age": 37
+        },
+        {
+          "name": "Lowe Schulman",
+          "age": 30
+        },
+        {
+          "name": "Lowe Wiik",
+          "age": 51
+        }
+      ],
+      "notes": [
+        "Lowe A-a(?), Hedgehog Human, Chompe."
+      ]
+    },
+    {
+      "id": "loc-prodence",
+      "type": "location",
+      "category": "Kingdom",
+      "name": "Prodence",
+      "aliases": [
+        "Kingdom of Prodence",
+        "Island Kingdom of Prodence"
+      ],
+      "description": "Where Gulliver Glaurt was raised. Also home to Ganzan's General, run by old man Gazan (who has a brother named Zangan) and Gym trainer Benjamin Mu, whose snail is called David Mu."
+    },
+    {
+      "id": "loc-cape-share",
+      "type": "location",
+      "category": "Landmark",
+      "name": "Cape Share",
+      "aliases": [],
+      "description": "Location of part of Chompe's session zero (part 2)."
+    },
+    {
+      "id": "loc-papas-locas",
+      "type": "location",
+      "category": "Establishment",
+      "name": "Papas Locas",
+      "aliases": [],
+      "description": "Mexican restaurant Scudamoore is affiliated/allied with. \"Are you tourist?\" restaurant bit."
+    },
+    {
+      "id": "loc-allsgrave-barques",
+      "type": "location",
+      "category": "Establishment",
+      "name": "Allsgrave Barques & Bite",
+      "aliases": [],
+      "description": "Allsgrave Tack's former business, though renamed after his wife remarried."
+    },
+    {
+      "id": "loc-highwale-reef",
+      "type": "location",
+      "category": "Island",
+      "name": "Highwale Reef",
+      "aliases": [],
+      "description": "Has a marine base."
+    },
+    {
+      "id": "loc-ferrule-kingdom",
+      "type": "location",
+      "category": "Kingdom",
+      "name": "Ferrule Kingdom",
+      "aliases": [],
+      "description": "\"King Fauchard has gone missing while his husband, King Xyston, has gone to govern his army in foreign lands. It is your job as members of the Marines to track down, secure and defend the King until his husband returns from war. The Kingdom of Ferrule is a government affiliated island, so success is an utmost priority.\""
+    },
+    {
+      "id": "loc-hangward-isles",
+      "type": "location",
+      "category": "Island",
+      "name": "Hangward Isles",
+      "aliases": []
+    },
+    {
+      "id": "loc-blue-hole",
+      "type": "location",
+      "category": "Landmark",
+      "name": "Blue Hole",
+      "aliases": []
+    },
+    {
+      "id": "loc-golhord-providence",
+      "type": "location",
+      "category": "Landmark",
+      "name": "Golhord Providence",
+      "aliases": []
+    },
+    {
+      "id": "loc-marineford",
+      "type": "location",
+      "category": "Landmark",
+      "name": "Marineford",
+      "aliases": []
+    },
+    {
+      "id": "loc-red-line",
+      "type": "location",
+      "category": "Landmark",
+      "name": "Red Line",
+      "aliases": [
+        "Red Port"
+      ]
+    },
+    {
+      "id": "loc-sabaody",
+      "type": "location",
+      "category": "Archipelago",
+      "name": "Sabaody",
+      "aliases": []
+    },
+    {
+      "id": "loc-red-desert",
+      "type": "location",
+      "category": "Region",
+      "name": "Red Desert",
+      "aliases": []
+    },
+    {
+      "id": "loc-elbaf",
+      "type": "location",
+      "category": "Island",
+      "name": "Elbaf",
+      "aliases": []
+    },
+    {
+      "id": "loc-amazon-lily",
+      "type": "location",
+      "category": "Island",
+      "name": "Amazon Lily",
+      "aliases": []
+    },
+    {
+      "id": "loc-fishman-island",
+      "type": "location",
+      "category": "Island",
+      "name": "Fishman Island",
+      "aliases": []
+    },
+    {
+      "id": "loc-gallowstay",
+      "type": "location",
+      "category": "Island",
+      "name": "Gallowstay Island",
+      "aliases": []
+    },
+    {
+      "id": "loc-calm-belt",
+      "type": "location",
+      "category": "Sea",
+      "name": "Calm Belt",
+      "aliases": []
+    },
+    {
+      "id": "loc-grand-line",
+      "type": "location",
+      "category": "Sea",
+      "name": "Grand Line",
+      "aliases": []
+    },
+    {
+      "id": "loc-new-world",
+      "type": "location",
+      "category": "Sea",
+      "name": "New World",
+      "aliases": []
+    },
+    {
+      "id": "loc-east-blue",
+      "type": "location",
+      "category": "Sea",
+      "name": "East Blue",
+      "aliases": []
+    },
+    {
+      "id": "loc-north-blue",
+      "type": "location",
+      "category": "Sea",
+      "name": "North Blue",
+      "aliases": []
+    },
+    {
+      "id": "loc-south-blue",
+      "type": "location",
+      "category": "Sea",
+      "name": "South Blue",
+      "aliases": []
+    }
+  ]
+}

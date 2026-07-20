@@ -871,7 +871,8 @@
       "status": "Active",
       "race": "Human",
       "description": "V's #5 favourite emperor. Namesake based on a type of shield. \"Sawkins absolutely gets a Grande Pike Place with a single ice cube in it. Decaf by the way.\" - V\n\nVery perceptive due to almost dying to Dohebi.\n\nAnimal Resemblance: \"Sawkins would probably resemble a German Shepherd or any herding dogs.\" - V"
-    {
+    },
+      {
     "id": "char-joan",
     "type": "character",
     "category": "Emperor",
